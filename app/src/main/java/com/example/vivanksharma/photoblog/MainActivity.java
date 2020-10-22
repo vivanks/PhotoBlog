@@ -77,12 +77,7 @@ public class MainActivity extends AppCompatActivity {
                     case R.id.bottomHome:
                         replace(homeFragment);
                         return true;
-                    case R.id.bottomAccount:
-                        replace(accountFragment);
-                        return true;
-                    case R.id.bottomNotifications:
-                        replace(notificationFragment);
-                        return true;
+                    
                         default:
                             return false;
                 }

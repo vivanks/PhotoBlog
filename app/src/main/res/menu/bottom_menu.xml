@@ -6,12 +6,4 @@
         android:id="@+id/bottomHome"
         android:icon="@drawable/baseline_home_black_24"
         android:title="Home" />
-    <item
-        android:id="@+id/bottomNotifications"
-        android:icon="@drawable/baseline_notifications_active_black_24"
-        android:title="Notifications" />
-    <item
-        android:id="@+id/bottomAccount"
-        android:icon="@drawable/baseline_person_black_24"
-        android:title="Account" />
 </menu>
